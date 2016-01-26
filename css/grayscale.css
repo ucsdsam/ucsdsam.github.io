@@ -26,7 +26,7 @@ h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
 }
 
@@ -161,7 +161,7 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 32px;
 }
 
 .intro .intro-body .intro-text {
